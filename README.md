@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Christiaan de Haan</h2>
-<h3 align="center">👨🏻‍🎓 Software Engineering Student at The Haagse Hogeschool</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimah&label=Profile%20views&color=0e75b6&style=flat" alt="vimah" /> </p>
+<h3 align="center">👨🏻‍🎓 HBO-ICT Software Engineering Student at The Haagse Hogeschool</h3>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christiaan-de-haan-424818275" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/christiaan-de-haan-424818275?trk=profile-badge">Christiaan de Haan</a></div>
 
 - 👨🏻‍💻 I’m currently studiying at The Haagse Hogeschool as an Software Engineer
 

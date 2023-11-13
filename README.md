@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Christiaan de Haan</h2>
 <h3 align="center">👨🏻‍🎓 HBO-ICT Software Engineering Student at The Haagse Hogeschool</h3>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christiaan-de-haan-424818275" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/christiaan-de-haan-424818275?trk=profile-badge">Christiaan de Haan</a></div>
+<img align="right" src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif" alt="Cat on a computer" />
 
 - 👨🏻‍💻 I’m currently studiying at The Haagse Hogeschool as an Software Engineer
 
-- 🔭 I’m currently working on **Creating a website**
+- 🔭 I’m currently working on **Creating a website in a project**
 
 - 🌱 I’m currently learning **C# & React**
 
@@ -14,7 +14,7 @@
 
 - 📜 other interests Wrenching on cars, games & internet culture
 
-- 💬 Ask me about **Back-end and Data Engineering**
+- 💬 Ask me about **Back-end web dev and Data Engineering**
 
 - 📫 How to reach me **christiaandehaan1998@gmail.com**
 

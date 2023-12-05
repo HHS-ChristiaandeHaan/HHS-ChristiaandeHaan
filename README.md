@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C# & React**
 
-- 👨‍🏫 available as **Web developer and Data Engineer**
+- 👨‍🏫 available as **Software Engineer, Web developer and Data Engineer**
 
 - 👨‍💻 All of my projects are available: Coming soon!!
 
